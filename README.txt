@@ -1,5 +1,5 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
+Massively by yaw
+html5up.net | @luauuuu
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
@@ -14,8 +14,8 @@ you can use for pretty much whatever.
 
 (* = not included)
 
-AJ
-aj@lkn.io | @ajlkn
+Yaw
+luauuuu.io | @luauuuu
 
 
 Credits:
